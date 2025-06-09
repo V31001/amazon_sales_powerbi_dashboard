@@ -1,5 +1,4 @@
-# amazon_sales_powerbi_dashboard
-Interactive Power BI dashboard for Amazon sales analysis — visualizing key metrics, trends, and insights from e-commerce data.
+
 # 📦 Amazon Sales & Ratings Dashboard | Power BI Project (2025)
 
 This Power BI project analyzes **Amazon sales and customer ratings data** to uncover patterns in product performance, customer satisfaction, and category-wise trends. The goal is to provide a powerful, interactive dashboard that delivers **actionable business insights** and helps stakeholders make **data-driven decisions**.
@@ -84,7 +83,8 @@ This Power BI project analyzes **Amazon sales and customer ratings data** to unc
 
 ## 📸 Dashboard Previews
 
-![Dashboard Preview 1](Screenshot%202025-06-09%20211000.png)  
-![Dashboard Preview 2](Screenshot%202025-06-09%20211138.png)
+![Image](https://github.com/user-attachments/assets/c0d5c8b1-723e-42d8-915a-0d11b2f48d60)
 
+
+![Image](https://github.com/user-attachments/assets/14aaf103-5877-41ec-a753-0a0208e34fc4)
 ---
